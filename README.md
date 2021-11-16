@@ -1,12 +1,14 @@
-# bikesharing
+# Bikesharing
 
 ##Overview of the Analysis
+
 This analysis is done in Tableau to understand, analyze and draw conclusions from a bike sharing service in the city of New York in order to apply these observations to the bike sharing service intended to be established in the city of Des Moines.
 
 Tableau Public link [click here](https://public.tableau.com/views/Citbike_df/CityBike-NY?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
 #Results:
+
 1.Checkout Times for Users image
 ![](https://github.com/mdabbous88/bikesharing/blob/main/Checkout%20Times%20for%20Users.png) 
 The image shows that most of the bike users use the bikes for a max of 5 minutes. The numbers of bikes  used for more than 5 minutes decrease drastically.
@@ -36,4 +38,5 @@ This map shows the most popular starting stations and which Manhattan areas have
 This map shows the most popular ending stations and which Manhattan areas have most users in NYC.
 
 #Summary:
+
 Two additional visualizations that could be added to help in the analysis is age groups of the bike sharing service users. Also, the type of attractions in the city that could influence the bike usage such as universities, schools, businesses...
